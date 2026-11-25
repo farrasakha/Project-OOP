@@ -1,4 +1,4 @@
-package com.uiescape.frontend;
+package com.uiescape.frontend.player;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
