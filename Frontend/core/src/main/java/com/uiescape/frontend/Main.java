@@ -20,7 +20,7 @@ public class Main extends ApplicationAdapter {
 
     @Override
     public void create() {
-        map = new TmxMapLoader().load("maps/map_pertama.tmx");
+        map = new TmxMapLoader().load("maplevelsatu/mapdua.tmx");
         renderer = new OrthogonalTiledMapRenderer(map);
 
         int mapWidth = map.getProperties().get("width", Integer.class);
