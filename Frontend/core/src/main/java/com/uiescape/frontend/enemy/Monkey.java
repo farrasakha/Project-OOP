@@ -8,7 +8,7 @@ import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.math.Rectangle;
 
-import com.uiescape.frontend.Player;
+import com.uiescape.frontend.player.Player;
 import com.uiescape.frontend.projectiles.ProjectileSystem;
 
 public class Monkey extends Enemy {
