@@ -8,8 +8,8 @@ import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.Pool;
 
-import com.uiescape.frontend.Player;
-import com.uiescape.frontend.PlayerStats;
+import com.uiescape.frontend.player.Player;
+import com.uiescape.frontend.player.PlayerStats;
 import com.uiescape.frontend.enemy.Monkey;
 import com.uiescape.frontend.level.Level;
 
